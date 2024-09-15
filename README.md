@@ -1,4 +1,19 @@
 # healthcare-management-systems
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
 Project Description: The aim of this project is to develop a web-based Patient Management System designed specifically for smaller healthcare clinics. The system will facilitate:
 
 Patient Registration: Easy input and management of patient information.
